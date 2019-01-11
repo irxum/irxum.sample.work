@@ -16,13 +16,15 @@ I used d3.js and public L.A.P.D. crime data for this visualization.
 I employed text mining of hotel reviews to extract sentiments and topics with R using the stm package.  
 
 [CIFAR-10 Principal Component Analysis](https://irxum.github.io/irxum.sample.work/AlexKwan_hw3_rev2.pdf)  
-I used principal component analysis to evaluate a dataset of images. R script found [here](https://github.com/irxum/irxum.sample.work/blob/master/hw3.R)  
+I used principal component analysis to evaluate a dataset of images. R script found [here](https://github.com/irxum/irxum.sample.work/blob/master/hw3.R).  
 
 [Music Origins Regularized Linear Regression](https://irxum.github.io/irxum.sample.work/AlexKwan_hw6_rev2.pdf)  
-I used regularized linear regression to assess origins of a dataset of music.  R scripts found [here](https://github.com/irxum/irxum.sample.work/blob/master/hw6_prob2_v1.R) and [here](https://github.com/irxum/irxum.sample.work/blob/master/hw6_prob2_v2.R)  
+I used regularized linear regression to assess origins of a dataset of music.  R scripts found [here](https://github.com/irxum/irxum.sample.work/blob/master/hw6_prob2_v1.R) and [here](https://github.com/irxum/irxum.sample.work/blob/master/hw6_prob2_v2.R).  
 
 [European Employment & Accelerometer Clustering](https://irxum.github.io/irxum.sample.work/AlexKwan_hw4.pdf)  
-I used hierarchical clustering to evaluate European employment data and vector quantization to evaluate accelerometer data.  R scripts found [here](https://github.com/irxum/irxum.sample.work/blob/master/hw4_prob1.R) and [here](https://github.com/irxum/irxum.sample.work/blob/master/hw4_prob2_AB_v2.R)  
+I used hierarchical clustering to evaluate European employment data and vector quantization to evaluate accelerometer data.  R scripts found [here](https://github.com/irxum/irxum.sample.work/blob/master/hw4_prob1.R) and [here](https://github.com/irxum/irxum.sample.work/blob/master/hw4_prob2_AB_v2.R).  
+
+
 
 
 ## Other
