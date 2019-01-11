@@ -5,12 +5,24 @@
   
 [L.A. Property Crime Occurrences](https://public.tableau.com/profile/alex.kwan5873#!/vizhome/AK_midterm_project_v2/Dashboard)  
 
-This work used Tableau and public L.A.P.D. crime data.
+This work used Tableau and public L.A.P.D. crime data. 
   
 [Stolen Vehicles & Burglaries per Quarter](https://irxum.github.io/ddv_project/ddvp_p1.html)  
 
-This work used d3.js and public L.A.P.D. crime data.
+This work used d3.js and public L.A.P.D. crime data. 
 
+
+
+
+## Patents
+
+[Pneumatic Actuator System and Method](https://patentimages.storage.googleapis.com/de/ab/0e/065a9aa6896a34/US20180302025A1.pdf)  
+
+I nominally contributed to this work while I was with [Sunfolding](https://www.sunfolding.com), a solar tracker company.
+
+[Scrubber for Reactive Gases](https://patentimages.storage.googleapis.com/f4/e1/6f/1b7d64ed24620a/US7829046.pdf)  
+
+I contributed to this work while I was with [Spectrasensors](https://www.spectrasensors.com), a instrumentation company.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
