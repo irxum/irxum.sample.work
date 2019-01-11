@@ -4,15 +4,25 @@
 ## Data Visualizations
   
 [L.A. Property Crime Occurrences](https://public.tableau.com/profile/alex.kwan5873#!/vizhome/AK_midterm_project_v2/Dashboard)  
-This work used Tableau and public L.A.P.D. crime data. 
+I used Tableau and public L.A.P.D. crime data for this visualization.
   
 [Stolen Vehicles & Burglaries per Quarter](https://irxum.github.io/ddv_project/ddvp_p1.html)  
-This work used d3.js and public L.A.P.D. crime data. 
+I used d3.js and public L.A.P.D. crime data for this visualization.
 
 
 ## Data Science Projects
 
-[Joint Analysis of Hotel Review & Historical Local Economy Metrics for Causal Topics](
+[Joint Analysis of Hotel Review & Historical Local Economy Metrics for Causal Topics](https://irxum.github.io/causality/)  
+I employed text mining of hotel reviews to extract sentiments and topics with R using the stm package.  
+
+[CIFAR-10 Principal Component Analysis](https://irxum.github.io/irxum.sample.work/AlexKwan_hw3_rev2.pdf)  
+I used principal component analysis to evaluate a dataset of images. R script found [here](https://github.com/irxum/irxum.sample.work/blob/master/hw3.R)  
+
+[Music Origins Regularized Linear Regression](https://irxum.github.io/irxum.sample.work/AlexKwan_hw6_rev2.pdf)  
+I used regularized linear regression to assess origins of a dataset of music.  R scripts found [here](https://github.com/irxum/irxum.sample.work/blob/master/hw6_prob2_v1.R) and [here](https://github.com/irxum/irxum.sample.work/blob/master/hw6_prob2_v2.R)  
+
+[European Employment & Accelerometer Clustering](https://irxum.github.io/irxum.sample.work/AlexKwan_hw4.pdf) 
+I used hierarchical clustering to evaluate European employment data and vector quantization to evaluate accelerometer data.  R scripts found [here](https://github.com/irxum/irxum.sample.work/blob/master/hw4_prob1.R) and [here](https://github.com/irxum/irxum.sample.work/blob/master/hw4_prob2_AB_v2.R)  
 
 
 ## Other
@@ -24,36 +34,3 @@ I contributed to this work while I was with [Spectrasensors](https://www.spectra
 I was the first author in this published article in the _Journal of Polymer Science Part B: Polymer Physics_.
 
 
-
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/irxum/irxum.sample.work/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
