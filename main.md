@@ -2,12 +2,14 @@
 
 
 ## Data Visualizations
+  
+[L.A. Property Crime Occurrences](https://public.tableau.com/profile/alex.kwan5873#!/vizhome/AK_midterm_project_v2/Dashboard)  
 
-
-
-[L.A. Property Crime Occurrences](https://public.tableau.com/profile/alex.kwan5873#!/vizhome/AK_midterm_project_v2/Dashboard)
 This work used Tableau and public L.A.P.D. crime data.
+  
+[Stolen Vehicles & Burglaries per Quarter](https://irxum.github.io/ddv_project/ddvp_p1.html)  
 
+This work used d3.js and public L.A.P.D. crime data.
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
