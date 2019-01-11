@@ -7,7 +7,7 @@
 I used Tableau and public L.A.P.D. crime data for this visualization.
   
 [Stolen Vehicles & Burglaries per Quarter](https://irxum.github.io/ddv_project/ddvp_p1.html)  
-I used d3.js and public L.A.P.D. crime data for this visualization.
+I used d3.js and public L.A.P.D. crime data for this interactive visualization.
 
 
   
