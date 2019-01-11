@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to my selection of Sample Work
 
-You can use the [editor on GitHub](https://github.com/irxum/irxum.sample.work/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Data Visualizations
 
-### Markdown
+
+
+[L.A. Property Crime Occurrences](https://public.tableau.com/profile/alex.kwan5873#!/vizhome/AK_midterm_project_v2/Dashboard)
+This work used Tableau and public L.A.P.D. crime data.
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
