@@ -10,7 +10,9 @@ This work used Tableau and public L.A.P.D. crime data.
 This work used d3.js and public L.A.P.D. crime data. 
 
 
+## Data Science Projects
 
+[Joint Analysis of Hotel Review & Historical Local Economy Metrics for Causal Topics](
 
 
 ## Other
