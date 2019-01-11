@@ -13,10 +13,15 @@ This work used d3.js and public L.A.P.D. crime data.
 
 
 
-## Patent
+## Other
 
 [Scrubber for Reactive Gases - US Patent 7829046B2](https://patentimages.storage.googleapis.com/f4/e1/6f/1b7d64ed24620a/US7829046.pdf)  
-I contributed to this work while I was with [Spectrasensors](https://www.spectrasensors.com), a laser-based instrumentation company.
+I contributed to this work while I was with [Spectrasensors](https://www.spectrasensors.com), a laser-based instrumentation company.  
+
+[Nanoscale Calorimetry of Isolated Polyethylene Single Crystals](http://allen.matse.illinois.edu/pdf/allen_jpsb_060101.pdf)  
+I was the first author in this published article in the Journal of Polymer Science Part B: Polymer Physics.
+
+
 
 
 
