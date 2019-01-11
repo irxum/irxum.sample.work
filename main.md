@@ -10,6 +10,7 @@ I used Tableau and public L.A.P.D. crime data for this visualization.
 I used d3.js and public L.A.P.D. crime data for this visualization.
 
 
+  
 ## Data Science Projects
 
 [Joint Analysis of Hotel Review & Historical Local Economy Metrics for Causal Topics](https://irxum.github.io/causality/)  
@@ -26,7 +27,7 @@ I used hierarchical clustering to evaluate European employment data and vector q
 
 
 
-
+  
 ## Other
 
 [Scrubber for Reactive Gases - US Patent 7829046B2](https://patentimages.storage.googleapis.com/f4/e1/6f/1b7d64ed24620a/US7829046.pdf)  
@@ -35,4 +36,5 @@ I contributed to this work while I was with [Spectrasensors](https://www.spectra
 [Nanoscale Calorimetry of Isolated Polyethylene Single Crystals](http://allen.matse.illinois.edu/pdf/allen_jpsb_060101.pdf)  
 I was the first author in this published article in the _Journal of Polymer Science Part B: Polymer Physics_.
 
+  
 
