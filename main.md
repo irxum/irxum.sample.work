@@ -25,7 +25,7 @@ I used regularized linear regression to assess origins of a dataset of music.  R
 [European Employment & Accelerometer Clustering](https://irxum.github.io/irxum.sample.work/AlexKwan_hw4.pdf)  
 I used hierarchical clustering to evaluate European employment data and vector quantization to evaluate accelerometer data.  R scripts found [here](https://github.com/irxum/irxum.sample.work/blob/master/hw4_prob1.R) and [here](https://github.com/irxum/irxum.sample.work/blob/master/hw4_prob2_AB_v2.R).  
 
-[Seasonality of Stolen Vehicles]((https://irxum.github.io/irxum.sample.work/AlexKwan_StolenVehicles.pdf)  
+[Seasonality of Stolen Vehicles](https://irxum.github.io/irxum.sample.work/AlexKwan_StolenVehicles.pdf)  
 I used multivariate linear regression to assess how seasons may affect frequency of stolen vehicles.  The .pdf includes the python script.
 
   
