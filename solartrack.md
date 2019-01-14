@@ -29,10 +29,10 @@ With the intervals defined above, the plot below shows the duration of each inte
 
 So it seems that the pertinent information would be how fast does the tracker need to move?  There are a few ways to understand this expressed in ° / minute.
 
-    max instantaneous rotation rate = the maximum instantaneous difference during the tracking profile which is basically the maximum absolute value of the incremental tracking angle difference (see the plot titled "Tracking Differential for Summer Solstice 6/21/17).  As is evident in the plots, this happens when backtracking ends in the morning and begins in the afternoon.
-    average morning backtracking = half of range of motion (flat to 45° East) divided by morning backtracking duration
-    average afternoon backtracking = half of range of motion (45° West to flat) divided by afternoon backtracking duration
-    average daily tracking = full range of motion (45° East to 45° West) divided by daily tracking duration.
+* max instantaneous rotation rate = the maximum instantaneous difference during the tracking profile which is basically the maximum absolute value of the incremental tracking angle difference (see the plot titled "Tracking Differential for Summer Solstice 6/21/17).  As is evident in the plots, this happens when backtracking ends in the morning and begins in the afternoon.
+* average morning backtracking = half of range of motion (flat to 45° East) divided by morning backtracking duration
+* average afternoon backtracking = half of range of motion (45° West to flat) divided by afternoon backtracking duration
+* average daily tracking = full range of motion (45° East to 45° West) divided by daily tracking duration.
     
 ![p3image](https://github.com/irxum/irxum.sample.work/blob/master/rateofchange_gcr_p35_ss.png)
 
