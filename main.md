@@ -1,5 +1,6 @@
 # Welcome to my selection of Sample Work
 
+All work on this page is non-proprietary.
 
 ## Data Visualizations
   
@@ -12,6 +13,9 @@ I used d3.js and public L.A.P.D. crime data for this interactive visualization.
 
   
 ## Data Science Projects
+
+[Tracking & Latitude During Summer Solstice](https://github.com/irxum/irxum.sample.work/wiki/Tracking-&-Latitude-During-Summer-Solstice)  
+I carried out some solar tracking quantitative analysis in Python using the pvlib package.  
 
 [Joint Analysis of Hotel Review & Historical Local Economy Metrics for Causal Topics](https://irxum.github.io/causality/)  
 I employed text mining of hotel reviews to extract sentiments and topics with R using the stm package.  
