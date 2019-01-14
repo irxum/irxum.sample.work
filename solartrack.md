@@ -36,6 +36,7 @@ So it seems that the pertinent information would be how fast does the tracker ne
     
 ![p3image](https://github.com/irxum/irxum.sample.work/blob/master/rateofchange_gcr_p35_ss.png)
 
+![p3bimage](https://github.com/irxum/irxum.sample.work/blob/master/diffTracking_gcr_p35_ss.png)
 
-## Part 4
+
 
