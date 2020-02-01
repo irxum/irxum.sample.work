@@ -20,6 +20,12 @@ I carried out some solar tracking quantitative analysis in Python using the pvli
 [Joint Analysis of Hotel Review & Historical Local Economy Metrics for Causal Topics](https://irxum.github.io/causality/)  
 I employed text mining of hotel reviews to extract sentiments and topics with R using the stm package.  
 
+[Skin Cancer Classification using LDA, RF, & SVM](https://github.com/irxum/psl_proj2/blob/master/Project2_akwan2.ipynb)
+I utilized LDA, RF, and SVM to perform classification of malignant and benign skin cancer lesions with Python and scikit-learn and scikit-image.
+
+[Wine Review and Recommendation with Regression Analysis](https://github.com/irxum/psl_proj1/blob/master/Project1_akwan2.Rmd)
+I employed the glmnet and caret packages in R to perform regression analysis to predict wine review scores.  The feature engineering included sentiment analysis on text reviews.
+
 [CIFAR-10 Principal Component Analysis](https://irxum.github.io/irxum.sample.work/AlexKwan_hw3_rev2.pdf)  
 I used principal component analysis to evaluate a dataset of images. R script found [here](https://github.com/irxum/irxum.sample.work/blob/master/hw3.R).  
 
