@@ -17,7 +17,8 @@ I used d3.js and public L.A.P.D. crime data for this interactive visualization.
 [Tracking & Latitude During Summer Solstice](https://github.com/irxum/irxum.sample.work/wiki/Tracking-&-Latitude-During-Summer-Solstice)  
 I carried out some solar tracking quantitative analysis in Python using the pvlib package.  
 
-[Residential Solar Demand Rate Analysis](https://irxum.github.io/irxum.sample.work/Residential_Solar_Demand_Rate_Analysis.ipynb) This is a sample rate analysis on a hypothetical residence with solar plus storage system.
+[Residential Solar Demand Rate Analysis](https://irxum.github.io/irxum.sample.work/Residential_Solar_Demand_Rate_Analysis.ipynb) 
+This is a sample rate analysis on a hypothetical residence with solar plus storage system.
 
 [Joint Analysis of Hotel Review & Historical Local Economy Metrics for Causal Topics](https://irxum.github.io/causality/)  
 I employed text mining of hotel reviews to extract sentiments and topics with R using the stm package.  
