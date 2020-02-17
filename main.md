@@ -8,7 +8,7 @@ All work on this page is non-proprietary.
 [Solar Tracking Latitude Sensitivity](https://github.com/irxum/irxum.sample.work/wiki/Tracking-&-Latitude-During-Summer-Solstice)  
 I carried out some solar tracking quantitative analysis in Python using the pvlib package.  
 
-[Residential Solar Rate Analysis](https://irxum.github.io/irxum.sample.work/Residential_Solar_Demand_Rate_Analysis.ipynb)  
+[Residential Solar Rate Analysis](https://github.com/irxum/irxum.sample.work/blob/master/Residential_Solar_Demand_Rate_Analysis.ipynb)  
 This is a Jupyter Notebook with a sample rate analysis on a hypothetical residence with a solar plus storage system subject to SRP tariffs.
 
 
