@@ -14,10 +14,10 @@ This is a Jupyter Notebook with a sample rate analysis on a hypothetical residen
 
 ## Data Visualizations
   
-[L.A. Property Crime Occurrences](https://public.tableau.com/profile/alex.kwan5873#!/vizhome/AK_midterm_project_v2/Dashboard)  
+[Tableau dashboard of L.A. Property Crime Occurrences](https://public.tableau.com/profile/alex.kwan5873#!/vizhome/AK_midterm_project_v2/Dashboard)  
 I used Tableau and public L.A.P.D. crime data for this visualization.
   
-[Stolen Vehicles & Burglaries per Quarter](https://irxum.github.io/ddv_project/ddvp_p1.html)  
+[Stolen Vehicles & Burglaries per Quarter using d3.js](https://irxum.github.io/ddv_project/ddvp_p1.html)  
 I used d3.js and public L.A.P.D. crime data for this interactive visualization.
 
  
