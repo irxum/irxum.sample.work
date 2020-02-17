@@ -9,7 +9,7 @@ All work on this page is non-proprietary.
 I carried out some solar tracking quantitative analysis in Python using the pvlib package.  
 
 [Residential Solar Rate Analysis](https://irxum.github.io/irxum.sample.work/Residential_Solar_Demand_Rate_Analysis.ipynb)  
-This is a sample rate analysis on a hypothetical residence with a solar plus storage system.
+This is a Jupyter Notebook with a sample rate analysis on a hypothetical residence with a solar plus storage system subject to SRP tariffs.
 
 
 ## Data Visualizations
@@ -27,7 +27,7 @@ I used d3.js and public L.A.P.D. crime data for this interactive visualization.
 I employed text mining of hotel reviews to extract sentiments and topics with R using the stm package.  
 
 [Skin Cancer Classification using LDA, RF, & SVM](https://github.com/irxum/psl_proj2/blob/master/Project2_akwan2.ipynb)  
-I utilized LDA, RF, and SVM to perform classification of malignant and benign skin cancer lesions with Python using the scikit-learn and scikit-image packages.
+I utilized LDA, RF, and SVM to perform classification of malignant and benign skin cancer lesions with Python in this Jupyter Notebook using the scikit-learn and scikit-image packages.
 
 [Wine Review and Recommendation with Regression Analysis](https://github.com/irxum/psl_proj1/blob/master/Project1_akwan2.Rmd)  
 I employed the glmnet and caret packages in R to perform regression analysis to predict wine review scores.  The feature engineering included sentiment analysis on text reviews.
