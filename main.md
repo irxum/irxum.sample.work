@@ -17,6 +17,8 @@ I used d3.js and public L.A.P.D. crime data for this interactive visualization.
 [Tracking & Latitude During Summer Solstice](https://github.com/irxum/irxum.sample.work/wiki/Tracking-&-Latitude-During-Summer-Solstice)  
 I carried out some solar tracking quantitative analysis in Python using the pvlib package.  
 
+[Residential Solar Demand Rate Analysis](https://irxum.github.io/irxum.sample.work/Residential_Solar_Demand_Rate_Analysis.ipynb) This is a sample rate analysis on a hypothetical residence with solar plus storage system.
+
 [Joint Analysis of Hotel Review & Historical Local Economy Metrics for Causal Topics](https://irxum.github.io/causality/)  
 I employed text mining of hotel reviews to extract sentiments and topics with R using the stm package.  
 
@@ -25,9 +27,6 @@ I utilized LDA, RF, and SVM to perform classification of malignant and benign sk
 
 [Wine Review and Recommendation with Regression Analysis](https://github.com/irxum/psl_proj1/blob/master/Project1_akwan2.Rmd)
 I employed the glmnet and caret packages in R to perform regression analysis to predict wine review scores.  The feature engineering included sentiment analysis on text reviews.
-
-[Music Origins Regularized Linear Regression](https://irxum.github.io/irxum.sample.work/AlexKwan_hw6_rev2.pdf)  
-I used regularized linear regression to assess origins of a dataset of music.  R scripts found [here](https://github.com/irxum/irxum.sample.work/blob/master/hw6_prob2_v1.R) and [here](https://github.com/irxum/irxum.sample.work/blob/master/hw6_prob2_v2.R).  
 
 [European Employment & Accelerometer Clustering](https://irxum.github.io/irxum.sample.work/AlexKwan_hw4.pdf)  
 I used hierarchical clustering to evaluate European employment data and vector quantization to evaluate accelerometer data.  R scripts found [here](https://github.com/irxum/irxum.sample.work/blob/master/hw4_prob1.R) and [here](https://github.com/irxum/irxum.sample.work/blob/master/hw4_prob2_AB_v2.R).  
