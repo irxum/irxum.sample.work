@@ -5,7 +5,7 @@ All work on this page is non-proprietary.
 
 ## Solar-related Analytics
 
-[Tracking & Latitude During Summer Solstice](https://github.com/irxum/irxum.sample.work/wiki/Tracking-&-Latitude-During-Summer-Solstice)  
+[Latitude Sensitivity to Solar Tracking](https://github.com/irxum/irxum.sample.work/wiki/Tracking-&-Latitude-During-Summer-Solstice)  
 I carried out some solar tracking quantitative analysis in Python using the pvlib package.  
 
 [Residential Solar Rate Analysis](https://irxum.github.io/irxum.sample.work/Residential_Solar_Demand_Rate_Analysis.ipynb)  
