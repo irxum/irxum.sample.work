@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jan 13 10:08:11 2017
 
-@author: alexatsunfolding
+@author: alex
 
 latitudeEval.py
 
