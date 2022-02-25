@@ -251,4 +251,3 @@ heat_index = HeatIndex(temps, humidity)
 
 assert heat_index.max_for_location('SJC') == 98.2
 assert heat_index.min_for_location('LAX') == 76.8
-assert heat_index.min_for_location('MIA') == 76.8
